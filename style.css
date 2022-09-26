@@ -1,0 +1,21 @@
+html {
+    overflow: hidden;
+}
+
+		body{
+			background-color:#000000;
+			margin:0px;
+			padding:0px;
+			overflow:hidden;
+		}
+		#hoge{
+			position:absolute;
+			top:0;
+			left:0;
+		}
+		#canvas{
+			position:absolute;
+			top:0;
+			left:0;
+			z-index:10000;
+		}
